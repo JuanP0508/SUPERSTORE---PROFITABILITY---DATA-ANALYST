@@ -6,6 +6,7 @@ Profitability analyst using excel, python, Mysql, and Power bi
 Superstore Profitability Analysis
 1. Business Problem
 
+this is a dataset by A2 capacitacion, the company and the data are inspired by a real company.
 The company shows strong sales performance, but profitability is inconsistent across subcategories, regions, and customer segments.
 Some products generate losses despite high revenue.
 
